@@ -1,0 +1,8 @@
+title,genre,release_year,num_ratings,average_rating,weighted_rating
+Inception,Sci-Fi,2010,2,9.25,8.91
+Interstellar,Sci-Fi,2014,3,8.83,8.72
+"The Dark Knight",Action,2008,2,8.75,8.66
+"The Shawshank Redemption",Drama,1994,3,8.67,8.63
+"Forrest Gump",Drama,1994,2,8.00,8.28
+"The Matrix",Sci-Fi,1999,2,8.00,8.28
+"The Godfather",Crime,1972,3,8.00,8.23
